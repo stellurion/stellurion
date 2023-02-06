@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sarah Shi
+### I'm a freshman at UCI studying Computer Science
+### Looking forward to adding more commits and customization :D
+
+
 
 <!--
 **stellurion/stellurion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
