@@ -1,6 +1,6 @@
-### Hi, I'm Sarah Shi
-### I'm a freshman at UCI studying Computer Science
-### Looking forward to adding more commits and customization :D
+### hi, i'm Sarah Shi
+### i'm a freshman at UCI studying computer science
+### looking forward to adding more commits and customization :D
 
 
 
