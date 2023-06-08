@@ -1,5 +1,5 @@
 ### hi, i'm sarah shi
-### i'm a student at UCI studying computer science
+i'm a student at UCI studying computer science
 
 
 
