@@ -1,4 +1,4 @@
-### hi, i'm sarah shi
+### hi, i'm sarah
 i'm a student at UCI studying computer science
 
 
