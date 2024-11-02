@@ -8,8 +8,8 @@ generate-circle
 florence-2 fine tuning  
 
 ### socials
-sarahshi6219@gmail.com  
-www.linkedin.com/in/sarah-62197-s
+[email](sarahshi6219@gmail.com)
+[linkedin](www.linkedin.com/in/sarah-62197-s)
 
 <!--
 **stellurion/stellurion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
