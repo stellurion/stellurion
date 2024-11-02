@@ -5,7 +5,7 @@ i'm a student at UCI studying computer science
 algorithms, cs theory, computer vision
 
 ### current projects
-generate-circle
+generate-circle  
 florence-2 fine tuning
 
 <!--
