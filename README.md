@@ -1,15 +1,12 @@
 ### hi, i'm sarah shi
 i'm a student at UCI studying computer science
 ### focuses
-algorithms, cs theory, computer vision
-  
-### tools
-wip  
-  
+algorithms, cs theory, computer vision  
+
 ### current projects
 generate-circle  
-florence-2 fine tuning
-  
+florence-2 fine tuning  
+
 ### socials
 sarahshi6219@gmail.com  
 www.linkedin.com/in/sarah-62197-s
