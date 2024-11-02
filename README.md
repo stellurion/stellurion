@@ -1,4 +1,4 @@
-### hi, i'm sarah shi
+### **hi, i'm sarah shi**
 i'm a student at UCI studying computer science.  
 
 ### focuses
@@ -6,13 +6,13 @@ algorithms, cs theory, computer vision
 
 -----
 
-### current projects
+### **current projects**
 generate-circle  
 florence-2 fine tuning  
 
 -----
 
-### socials
+### **socials**
 [email](sarahshi6219@gmail.com)  
 [linkedin](www.linkedin.com/in/sarah-62197-s)  
 [leetcode](https://leetcode.com/u/user1797L/)
