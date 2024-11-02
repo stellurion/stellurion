@@ -1,12 +1,21 @@
 ### hi, i'm sarah shi
 i'm a student at UCI studying computer science
-
-### skills
+## focuses
 algorithms, cs theory, computer vision
-
+  
+### tools
+wip  
+  
 ### current projects
 generate-circle  
 florence-2 fine tuning
+  
+### hobbies
+aside from coding, i play competitive tetris and the piano.
+  
+### socials
+sarahshi6219@gmail.com  
+www.linkedin.com/in/sarah-62197-s
 
 <!--
 **stellurion/stellurion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
