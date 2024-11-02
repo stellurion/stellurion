@@ -4,7 +4,7 @@ i'm a student at UCI studying computer science
 ### skills
 algorithms, cs theory, computer vision
 
-### projects
+### current projects
 generate-random-circle-track  
 florence-2 fine tuning
 
