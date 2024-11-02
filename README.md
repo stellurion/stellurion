@@ -1,7 +1,6 @@
 ### hi, i'm sarah shi
-i'm a student at UCI studying computer science
-#### focuses
-algorithms, cs theory, computer vision  
+i'm a student at UCI studying computer science.  
+background: algorithms, cs theory, computer vision  
 
 ### current projects
 generate-circle  
