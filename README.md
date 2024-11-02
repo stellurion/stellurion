@@ -10,9 +10,6 @@ wip
 generate-circle  
 florence-2 fine tuning
   
-### hobbies
-aside from coding, i play competitive tetris and the piano.
-  
 ### socials
 sarahshi6219@gmail.com  
 www.linkedin.com/in/sarah-62197-s
