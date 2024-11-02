@@ -1,7 +1,12 @@
 ### hi, i'm sarah
 i'm a student at UCI studying computer science
 
+### skills
+algorithms, cs theory, computer vision
 
+### projects
+generate-random-circle-track
+florence-2 fine tuning
 
 <!--
 **stellurion/stellurion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
