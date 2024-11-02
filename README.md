@@ -1,6 +1,6 @@
 ### hi, i'm sarah shi
 i'm a student at UCI studying computer science
-## focuses
+### focuses
 algorithms, cs theory, computer vision
   
 ### tools
