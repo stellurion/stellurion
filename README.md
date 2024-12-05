@@ -15,9 +15,9 @@ i'm a student at UCI studying computer science.  i love puzzles + shapes!
 -----
 
 ### **socials**
-[email](sarahshi6219@gmail.com)  
-[linkedin](www.linkedin.com/in/sarah-62197-s)  
-[leetcode](https://leetcode.com/u/user1797L/)
+ - [email](sarahshi6219@gmail.com)
+ - [linkedin](www.linkedin.com/in/sarah-62197-s)
+ - [leetcode](https://leetcode.com/u/user1797L/)
 
 <!--
 **stellurion/stellurion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
