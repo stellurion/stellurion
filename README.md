@@ -1,6 +1,8 @@
 ## **hi, i'm sarah shi**
 i'm a student at UCI studying computer science.  i love puzzles + shapes!
 
+-----
+
 ### focuses
  - algorithms
  - cs theory
